@@ -147,6 +147,3 @@ Feedstock Maintainers
 * [@rxm7706](https://github.com/rxm7706/)
 * [@timkpaine](https://github.com/timkpaine/)
 
-
-<!-- dummy commit to enable rerendering -->
-
